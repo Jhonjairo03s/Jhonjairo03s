@@ -2,10 +2,13 @@
 👋 ¡Hola! Soy un estudiante de 42 Urduliz apasionado por la tecnología y el Business Intelligence.<br>🚀 Actualmente estoy explorando el mundo del desarrollo y aprendiendo nuevas habilidades para convertirme en un profesional completo.<br>🤓 Me encanta analizar datos, resolver problemas y crear soluciones eficientes.<br>💡 ¡Siempre estoy buscando nuevos retos y oportunidades para crecer!
 
 # 💻 Tech Stack:
+**Education**
+![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
+
 **Languages:**
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
 
-**Libraries:**
+**ML/DL:**
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 
 **Database:**
